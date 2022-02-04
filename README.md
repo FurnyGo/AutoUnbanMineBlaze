@@ -1,2 +1,4 @@
 # AutoUnbanMineBlaze
-Minecraft mod for auto-moderation MineBlaze
+
+Этот мод создан для авторазбана и размута игроков на сервере MineBlaze
+Вы можете просмотреть код в папке src и увидеть что ничего плохого в нём нет (максимум привествие)
