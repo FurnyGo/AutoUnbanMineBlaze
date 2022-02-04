@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autounban",
+  "name": "AutoUnbanMineBlaze",
+  "description": "§bМод создан для разбана игроков, которых забанили нек. причине, приятной игры",
+  "version": "1.0",
+  "mcversion": "Forge 1.12.2",
+  "url": "https://youtube.com/FurnyGo",
+  "updateUrl": "",
+  "authorList": ["§cFurnyGo"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
